@@ -3,6 +3,6 @@ This repository is a compilation of projects I have accomplished during the stud
 The repository contains projects related to such topics as: 
 
 1. [A/B testing](https://github.com/edwo95/Projects/tree/main/AB%20Test) 
-2. Business Metrics Analytics
+2. [Business Metrics Analytics](https://github.com/edwo95/Projects/tree/main/Business%20Metrics%20Analytics)
 3. Data visualization and Automation
 4. Introduction to machine learning and predictions 
