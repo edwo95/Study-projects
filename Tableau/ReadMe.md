@@ -8,3 +8,5 @@ Task: Create a dashboard to demonstrate the distribution of Yandex.Dzen blogs ac
 
 The dashboard is based on a history of user interaction with related blogs. 
 Due to copyright restrictions, I cannot provide a script, which reveals data aggregation and automation. 
+
+Dasboard is accessible via: https://public.tableau.com/profile/eduard.ochirov#!/vizhome/Yandex_16186733889000/Dashboard1?publish=yes
