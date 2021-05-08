@@ -16,3 +16,20 @@
 
 Библиоткеи использованы: pandas,numpy, matplotlib, seaborn 
 
+# Marketing costs optimization
+
+Purpose of work: Analyze the effectiveness of various marketing campaigns and give recommendations for optimization.
+
+There is service A data from June 2017 to the end of May 2018:
+* server log with data on site visits,
+* unloading of all orders for this period,
+* statistics of advertising costs.
+ 
+ It is necessary to identify:
+* how customers use the service,
+* when they make their first purchases on the site,
+* how much money each client brings to the company,
+* when the cost of attracting a client pays off
+
+
+Libraries used: pandas, numpy, matplotlib, seaborn
