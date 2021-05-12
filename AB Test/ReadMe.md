@@ -19,14 +19,14 @@
 # Общие выводы: 
 А/А тест показал общую корректность проводимого теста. А/Б тест не выявил никаких значимых различий между группами. В то время как расчет кумулятивных метрик показал, что в целом показатели p-value "успокоился" и дальнейшего сбора данных не требуется.
 
-# Methodology
-Comparison of shares using the z-test, calculation of cumulative metrics
-
 
 # A / B testing
 Task: check if the conversions in orders changed after changing the font in the food delivery application
 
-### Study plan
+### Methodology
+Comparison of shares using the z-test, calculation of cumulative metrics
+
+### Research plan
 * 1. Data exploration
 * 2. Data preprocessing
 * 3. Prioritizing hypotheses
