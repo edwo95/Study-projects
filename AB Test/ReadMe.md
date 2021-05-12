@@ -16,7 +16,7 @@
 * 9. АВ тест по очищенным данным 
 * 10. Выводы
 
-# Общие выводы: 
+## Общие выводы: 
 А/А тест показал общую корректность проводимого теста. А/Б тест не выявил никаких значимых различий между группами. В то время как расчет кумулятивных метрик показал, что в целом показатели p-value "успокоился" и дальнейшего сбора данных не требуется.
 
 
@@ -38,5 +38,5 @@ Comparison of shares using the z-test, calculation of cumulative metrics
 * 9. AV test on cleaned data
 * 10. Conclusions
 
-# General conclusions:
+## General conclusions:
 The A / A test showed the overall correctness of the test. The A / B test did not reveal any significant differences between the groups. At the same time, the calculation of cumulative metrics showed that, in general, the p-value indicators "calmed down" and no further data collection is being carried out.
