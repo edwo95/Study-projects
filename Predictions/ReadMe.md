@@ -8,12 +8,23 @@
 
 * Проанализировать основные признаки, наиболее сильно влияющие на отток;
 
+## Методика
+* Алгоритм бинарной логистической регресии
+* Иерархический и K-means кластерный анализ
+
+
 ## Структура работы 
 1. Изучение данных
 2. EDA анализ
 3. Предсказания 
 4. Классификация 
 5. Выводы
+
+## Общие выводы 
+Была обучена модель предсказания оттока клиентов фитнесс центра. Модель также продемонстрировала высокий уровень качества, достигнув около 90% по показателям Accuracy, Precision и Recall. 
+Кластерный анализ позволил выявить 5 основных кластеров пользователей. 
+
+По итогам был составлен список рекомендаций для предотвращения оттока. 
 
 # Predicting churn of clients of a fitness center
 
@@ -25,9 +36,19 @@ Purpose of work: Describe the clients of the fitness center, predict their outfl
 
 * Analyze the main features that affect the outflow the most;
 
-## Work structure
+## Methodology
+* Binary Logistic Regression Algorithm
+* Hierarchical and K-means cluster analysis
+
+## Research structure
 1. Data exploration
 2. EDA analysis
 3. Predictions
 4. Classification
 5. Conclusions
+
+## General conclusions
+A fitness center customer churn forecasting model was trained. The model also showed a high level of quality, reaching about 90% in terms of Accuracy, Precision and Recall.
+Cluster analysis revealed 5 main user clusters.
+
+As a result, a list of recommendations was drawn up to prevent churn.
