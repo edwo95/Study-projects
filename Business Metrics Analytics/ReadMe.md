@@ -13,8 +13,9 @@
 * сколько денег приносит компании каждый клиент,
 * когда расходы на привлечение клиента окупаются
 
-
-Библиоткеи использованы: pandas,numpy, matplotlib, seaborn 
+## Общие выводы
+По итогам анализа были выявлены наиболее затратные и неэффективные маркетинговые источники. Был составлен ряд рекомендаций по оптимизации рекламной кампании. 
+Также был рассчитан срок окупаемости каждого источника и доходность одного клиента. 
 
 # Marketing costs optimization
 
@@ -31,5 +32,6 @@ There is service A data from June 2017 to the end of May 2018:
 * how much money each client brings to the company,
 * when the cost of attracting a client pays off
 
-
-Libraries used: pandas, numpy, matplotlib, seaborn
+## General conclusions
+The analysis revealed the most costly and ineffective marketing sources. A number of recommendations were made to optimize the advertising campaign.
+Also, the payback period for each source and the profitability of one client were calculated.
