@@ -1,3 +1,6 @@
+## В случае, если проект не открывается \ In case the project doesn't open 
+https://nbviewer.jupyter.org/github/edwo95/Study-projects/blob/main/Predictions/Predictions.ipynb
+
 # Предсказание оттока клиентов фитнес центра 
 
 Цель работы: Рассказать о клиентах фитнес-центра, предсказать их отток на основании факторов в БД и предложить рекомендации для заказчика
