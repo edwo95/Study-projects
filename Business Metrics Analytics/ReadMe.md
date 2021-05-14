@@ -1,3 +1,6 @@
+## В случае если проект не открывается\ In case the project doesn't open 
+https://nbviewer.jupyter.org/github/edwo95/Study-projects/blob/main/Business%20Metrics%20Analytics/Business_Metrics_Analytics.ipynb
+
 # Оптимизация маркетинговых расходов 
 
 Цель работы: Проанализировать ээфективность различных маркетинговых кампаний и дать рекомендации по оптимизации. 
