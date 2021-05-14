@@ -1,3 +1,6 @@
+## В случае, если проект не открывается \ In case the project doesn't open 
+https://nbviewer.jupyter.org/github/edwo95/Study-projects/blob/main/AB%20Test/AB%20Test.ipynb
+
 # А/Б тестирование 
 Цель исследования: Проверить изменились ли конверсии в заказы после изменения шрифта в приложении по доставке еды
 
